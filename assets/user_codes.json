@@ -1,0 +1,24 @@
+{
+    "ZN": {
+        "name": "Zar Ni Bwar",
+        "phone": "0959949437",
+        "email": "zarnibwar.jc@gmail.com",
+        "totalpoint": "567",
+        "birthday": "24 November 1995"
+    },
+
+    "MM": {
+        "name": "Ko Zar Ni",
+        "phone": "0834051877",
+        "email": "kznb@gmail.com",
+        "totalpoint": "468",
+        "birthday": "27 June 1993"
+    },
+    "KH": {
+        "name": "Khin Hnin",
+        "phone": "0834051877",
+        "email": "khinhnin@gmail.com",
+        "totalpoint": "672",
+        "birthday": "02 October 1991"
+    }
+}
